@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">StudyPDF</string>
+    <string name="Skip_button">SKIP</string>
+    <string name="next_button">NEXT</string>
+    <string name="intro_image">Introimg</string>
+    <string name="intro_text">Introtxt</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment_user_home">Home</string>
+    <string name="fragment_search">Search</string>
+    <string name="fragment_my_pdf">My PDF</string>
+    <string name="fragment_user_profile">Profile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_dashboard">User Dashboard</string>
+    <string name="todo">TODO</string>
+
+    <string name="newuser"><u>"Don't have an account? \n<b>Register"</b></u></string>
+    <string name="olduser"><u>"Already have an account? \n<b>Login"</b></u></string>
+</resources>

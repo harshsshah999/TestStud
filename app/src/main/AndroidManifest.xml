@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.app.hardik.studypdf">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_INTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/finalappicon"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/finalappicon"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Changecost"></activity>
+        <activity android:name=".ForgotPWD" />
+        <activity android:name=".Deletepdf" />
+        <activity android:name=".Adminsettings" />
+        <activity android:name=".Demopdfviewer" />
+        <activity android:name=".Pdfviewer" />
+        <activity android:name=".Paymentpage" />
+        <activity android:name=".Pdflist" />
+        <activity android:name=".Uploadsection" />
+        <activity android:name=".ExpandCard" />
+        <activity android:name=".AddIntoList" />
+        <activity android:name=".Admindashboard" />
+        <activity android:name=".Userdashboard" />
+        <activity android:name=".SignUp" />
+        <activity android:name=".Introscreen" />
+        <activity android:name=".LoginPage" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="com.razorpay.ApiKey"
+            android:value="rzp_test_wb9Wu7uV6AjZNL" />
+    </application>
+
+</manifest>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "433785602922",
+    "firebase_url": "https://studypdf-16f8d.firebaseio.com",
+    "project_id": "studypdf-16f8d",
+    "storage_bucket": "studypdf-16f8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433785602922:android:a952c791001fb72da6db13",
+        "android_client_info": {
+          "package_name": "com.cillyfox.studypdf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433785602922-qdtedv0h2pd8ba95j9f0rh1fvog4dqq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4oCG6pGOGnivpH7FZ_JQ3St25ijNlIG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433785602922-qdtedv0h2pd8ba95j9f0rh1fvog4dqq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
